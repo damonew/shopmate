@@ -1,7 +1,7 @@
-# Shopmate project from [React JS Masterclass - Go From Zero To Job Ready](https://learning.oreilly.com/videos/react-js-masterclass/9781805125549/)
+# Shopmate guided project from React JS Masterclass.
+## [React JS Masterclass - Go From Zero To Job Ready](https://learning.oreilly.com/videos/react-js-masterclass/9781805125549/)
 
 # The goal of this project was to teach Reducers, useContect hook.
-
 
 ## Getting Started with Create React App
 
