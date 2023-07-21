@@ -1,12 +1,12 @@
-
+import { AllRoutes } from "./routes/AllRoutes";
+import { Header } from "./components";
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        yup v3
-      </header>
+      <Header />
+      <AllRoutes />
     </div>
   );
 }
