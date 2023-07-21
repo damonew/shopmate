@@ -1,9 +1,9 @@
-# Shopmate guided project from React JS Masterclass.
-## [React JS Masterclass - Go From Zero To Job Ready](https://learning.oreilly.com/videos/react-js-masterclass/9781805125549/)
+### Shopmate guided project from React JS Masterclass.
+### [React JS Masterclass - Go From Zero To Job Ready](https://learning.oreilly.com/videos/react-js-masterclass/9781805125549/)
 
-# The goal of this project was to teach Reducers, useContect hook.
+### The goal of this project was to teach Reducers, useContect hook.
 
-## Getting Started with Create React App
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -31,6 +31,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 #### Learn More
 
-# You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-# To learn React, check out the [React documentation](https://reactjs.org/).
+### To learn React, check out the [React documentation](https://reactjs.org/).
