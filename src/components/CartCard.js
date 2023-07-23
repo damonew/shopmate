@@ -1,6 +1,10 @@
+import { useTitle } from "../hooks/useTitle";
+
 import "./CartCard.css";
 
-export const CartCard = ({product}) => {
+export const CartCard = ({ product }) => {
+  useTitle('Cart');
+
   const {name, price, image} = product;
 
   return (
